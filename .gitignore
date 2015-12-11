@@ -2,3 +2,8 @@ node_modules
 cache
 settings.json
 static/tts
+.idea
+.ntvs_analysis.dat
+obj/
+*.njsproj
+*.sln
